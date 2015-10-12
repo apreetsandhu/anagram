@@ -46,7 +46,7 @@ public class Anagram {
 			System.out.println("Yes, Strings are anagram");
 		}
 		else
-			System.out.println("No, Strings are not amagram");
+			System.out.println("No, Strings are not anagram");
 
 	}
 
